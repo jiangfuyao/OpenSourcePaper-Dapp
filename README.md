@@ -19,7 +19,7 @@ React 前端 读取 智能合约 hash值, 对应 时间戳 和发布人地址, �
 部署过程参考 github 另一个Dapp <https://github.com/jiangfuyao/Dapp-IPFS-Image/blob/master/README.md>
 
 
-
+*******
 The MIT License (MIT)
 Copyright © 2018 <Fuyao-Jiang>
 
