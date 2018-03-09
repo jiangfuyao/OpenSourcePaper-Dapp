@@ -16,9 +16,9 @@ React 前端 读取 智能合约 hash值, 对应 时间戳 和发布人地址, �
 参考 我的 博客 <http://jiangfuyao.com> , 或者 自行 google.  
 
 注意: 合约 需要重新编译,部署.  `npm install` 安装 node_moudls 依赖  
-部署过程参考 github 另一个Dapp <https://github.com/jiangfuyao/Dapp-IPFS-Image/blob/master/README.md>
+部署过程参考 github 另一个Dapp <https://github.com/jiangfuyao/Dapp-IPFS-Image/blob/master/README.md>  
 
-
+*****
 
 The MIT License (MIT)
 Copyright © 2018 <Fuyao-Jiang>
