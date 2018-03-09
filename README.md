@@ -19,7 +19,7 @@ React 前端 读取 智能合约 hash值, 对应 时间戳 和发布人地址, �
 部署过程参考 github 另一个Dapp <https://github.com/jiangfuyao/Dapp-IPFS-Image/blob/master/README.md>  
 
 The MIT License (MIT)  
-Copyright © 2018 <Fuyao-Jiang>  
+`Copyright © 2018 <Fuyao-Jiang>` 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:  
 
